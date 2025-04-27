@@ -16,14 +16,7 @@ function Home() {
                     Aspiring IT Professional passionate about Web Development, Networking, and AI.
                     <br /> Let's build something together!
                 </p>
-
-                <div className="social-icons">
-                    <a href="mailto:capuno.marianne.dll@gmail.com"><i className='bx bxs-envelope'></i></a>
-                    <a href="tel:09459723613"><i className='bx bxs-phone'></i></a>
-                    <a href="https://web.facebook.com/maribstgrl/" target="_blank" rel="noopener noreferrer"><i className='bx bxl-facebook-circle'></i></a>
-                    <a href="https://github.com/xieryn" target="_blank" rel="noopener noreferrer"><i className='bx bxl-github'></i></a>
-                </div>
-
+                
                 <button className="btn">Hire Me</button>
             </div>
         </section>
